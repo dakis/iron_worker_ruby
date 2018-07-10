@@ -18,6 +18,5 @@ Gem::Specification.new do |gem|
   gem.required_ruby_version = Gem::Requirement.new(">= 1.9")
   gem.add_runtime_dependency "iron_core", ">= 1.0.12", '< 2'
   gem.add_runtime_dependency 'rest', '~> 3.0', ">= 3.0.8"
-  gem.add_runtime_dependency "json", "~> 1.8", "> 1.8.1"
 
 end
